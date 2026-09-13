@@ -1,0 +1,51 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+font-family: Arial, sans-serif;
+background-color: #ffff;
+margin: 0;
+padding: 0;
+}
+
+.registration-container {
+width: 400px;
+margin: 50px auto;
+background-color: #de22;
+padding: 30px;
+border-radius: 20px;
+}
+
+h1 {
+text-align: center;
+margin-bottom: 25px;
+}
+
+label {
+display: block;
+margin-top: 15px;
+margin-bottom: 5px;
+}
+
+input {
+width: 100%;
+padding: 10px;
+box-sizing: border-box;
+}
+
+button {
+width: 100%;
+padding: 12px;
+margin-top: 25px;
+background-color: #173b63;
+color: white;
+border: none;
+cursor: pointer;
+border-radius: 15px;
+}
+
+button:hover {
+background-color: #0f2945;
+}
